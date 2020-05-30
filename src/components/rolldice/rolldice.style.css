@@ -1,0 +1,18 @@
+
+/* rolldice button style */
+.RollDice button {
+    background-color:pink;
+    color:white;
+    width: 15em;
+    padding: 1.5em;
+    margin-top: 3em;
+}
+
+.RollDice button:hover {
+    color:pink;
+    background-color:white;
+    
+}
+
+
+
